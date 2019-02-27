@@ -1,1 +1,1 @@
-worker: asu.py
+worker: python asu.py
