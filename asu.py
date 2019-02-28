@@ -75,4 +75,4 @@ async def astral(arg="Hey"):
    else:
        await bot.say(talkdict[randomtalk])
 
-bot.run("NTQ5OTk2NTc2MDUxOTUzNjc1.D1c-4Q.KesDx-TKgFc-psq_RxXbxxf2ha8")
+bot.run("NTQ5OTk2NTc2MDUxOTUzNjc1.D1mNpg.p1Mlb4DFfIGDI0KTopSGQ7L0zSE")
