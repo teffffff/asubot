@@ -50,7 +50,18 @@ async def astral(arg="Hey"):
                37: "You're my Other Half",
                38: "*Thumbs up at you*",
                39: ":thenperish:",
-               40: ":sparkling_heart:"
+               40: ":sparkling_heart:",
+               41: "I suppose",
+               42: "I think so",
+               43 "*Goes egg mode*",
+               44: "*Stares at you*",
+               45: "Nice",
+               46: "Are you kidding me?",
+               47: "*Holds out hands*,
+               48: "I'm looking forward to it",
+               49: "*Hand on chin*",
+               50: "*Stares at you*",
+               51: "*Nods*"
                }
    
    answerdict = {0: "Hey Astral"
