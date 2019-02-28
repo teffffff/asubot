@@ -50,7 +50,7 @@ async def astral(arg="Hey"):
                37: "You're my Other Half",
                38: "*Thumbs up at you*",
                39: ":thenperish:",
-               40: ":sparkling_heart:"
+               40: ":sparkling_heart:",
                41: "I suppose",
                42: "I think so",
                43 "*Goes egg mode*",
