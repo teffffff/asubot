@@ -57,7 +57,7 @@ async def astral(arg="Hey"):
                44: "*Stares at you*",
                45: "Nice",
                46: "Are you kidding me?",
-               47: "*Holds out hands*,
+               47: "*Holds out hands*",
                48: "I'm looking forward to it",
                49: "*Hand on chin*",
                50: "*Stares at you*",
