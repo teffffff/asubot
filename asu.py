@@ -53,7 +53,7 @@ async def astral(arg="Hey"):
                40: ":sparkling_heart:",
                41: "I suppose",
                42: "I think so",
-               43 "*Goes egg mode*",
+               43  "*Goes egg mode*",
                44: "*Stares at you*",
                45: "Nice",
                46: "Are you kidding me?",
